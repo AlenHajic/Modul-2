@@ -1,0 +1,8 @@
+﻿  KAO_1.cpp
+C:\Users\Hajic\OneDrive\Desktop\TEST\övningar_2\övningar_2\KAO_1.cpp(12,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hajic\OneDrive\Desktop\TEST\övningar_2\övningar_2\KAO_1.cpp(13,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hajic\OneDrive\Desktop\TEST\övningar_2\övningar_2\KAO_1.cpp(48,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  ShotPut.cpp
+  Generating Code...
+C:\Users\Hajic\OneDrive\Desktop\TEST\övningar_2\övningar_2\ShotPut.cpp(46): warning C4715: 'ShotPut::operator=': not all control paths return a value
+  övningar_2.vcxproj -> C:\Users\Hajic\OneDrive\Desktop\TEST\övningar_2\x64\Debug\övningar_2.exe
